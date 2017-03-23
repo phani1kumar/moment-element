@@ -15,20 +15,20 @@
   ],
   "dependencies": {
     "moment": "^2.10.0",
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#master"
   },
   "license": "MIT",
   "main": "moment-element.html",
-  "homepage": "http://bendavis78.github.io/moment-element/",
+  "homepage": "http://phani1kumar.github.io/moment-element/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bendavis78/moment-element.git"
+    "url": "git://github.com/phani1kumar/moment-element.git"
   },
   "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#^1.0.4",
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "test-fixture": "polymerelements/test-fixture#^1.0.0",
-    "web-component-tester": "*",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "paper-styles": "PolymerElements/paper-styles#2.0-preview",
+    "iron-component-page": "PolymerElements/iron-component-page#2.0-preview",
+    "test-fixture": "polymerelements/test-fixture#2.0-preview",
+    "web-component-tester": "Polymer/web-component-tester",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#v1.0.0-rc.5"
   }
 }
